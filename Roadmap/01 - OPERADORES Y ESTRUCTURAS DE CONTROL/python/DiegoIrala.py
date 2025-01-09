@@ -38,7 +38,7 @@ decremento = 1
 a -= decremento         #Decremento
 print(f"Decrementamos a en un valor de {decremento}  : {a}")
 multiplicacion = 2
-a *= multiplicacion     #Multiplicacion
+a *= multiplicacion     #Multiplicación
 print(f"Multiplicamos a en un valor de {multiplicacion}  : {a}")
 division = 2
 a /= division           #Division
